@@ -214,6 +214,46 @@ header nav h3 {
 
 
 
+/* My Inspiration section styles */
+.inspiration-section {
+  width: 1140px;
+  height: 775px;
+  margin: 70px auto;
+}
+.inspiration-section h1 {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 24px;
+}
+.inspiration-section p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 26px;
+  opacity: 0.7;
+  margin: 24px 0px;
+  margin-bottom: 48px;
+}
+.inspiration-section iframe {
+  margin: 40px;
+  width: 1066px;
+  height: 550px;
+  box-sizing: border-box;
+  /* padding: 32px; */
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+}
+.video-container{
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+}
+
+
 
 
 
