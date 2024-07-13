@@ -4,6 +4,7 @@
 body {
     font-family: "Azeret Mono", monospace;
   }
+
 /* ------ Font section ------- */
 
 
@@ -252,6 +253,137 @@ header nav h3 {
   border: 1px solid rgba(13, 19, 33, 0.2);
   border-radius: 16px;
 }
+
+
+
+
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+/* ------------------------------------------------ */
+
+
+
+
+
+
+/* My Current Target section styles */
+#current-targets {
+  width: 1140px;
+  height: 590px;
+  margin: 0 auto;
+
+}
+.target-title {
+  width: 946px;
+  height: 113px;
+  margin: 0 auto;
+}
+.target-title h1 {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  line-height: 37px;
+  letter-spacing: 0%;
+  margin-top: 140px;
+  margin-bottom: 24px;
+
+}
+.target-title p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  opacity: 0.7;
+  margin: 24px 0px;
+  width: 850px;
+  height: 50px;
+}
+/* target title portion ends... */
+
+
+
+
+
+.all-targets {
+  margin: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 28px;
+}
+
+
+
+
+.target-html, .target-css, .target-js {
+  width: 350px;
+  height: 290px;
+  border-radius: 16px;
+  padding: 30px;
+}
+.card1-color {
+  background: rgba(255, 76, 30, 0.05);
+}
+.card2-color{
+  background: rgba(0, 76, 232, 0.05);
+}
+.card3-color{
+  background: rgba(255, 223, 0, 0.05);
+}
+
+.card-img {
+  width: 56px;
+  height: 56px;
+}
+.card-heading {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+.card-details {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  opacity: 0.7;
+  margin-bottom: 30px ;
+
+}
+
+.card-anchor {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  opacity: 0.7;
+}
+
+
+
+
 
 
 
