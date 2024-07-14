@@ -313,6 +313,8 @@ header nav h3 {
   margin: 24px 0px;
   width: 850px;
   height: 50px;
+  margin: 0 auto;
+
 }
 /* target title portion ends... */
 
@@ -382,10 +384,230 @@ header nav h3 {
 }
 
 
+/* Next target section styles */
+.next-targets {
+  width: 70%;
+  height: 866px;
+  margin: 65px auto;
+}
+.next-target-title {
+  width: 100%; 
+  height: 115px;
+  margin-top: 110px;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.next-target-title h1 {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  line-height: 37px;
+  margin-bottom: 25px;
+}
+.next-target-title p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 0 auto;
+  width: 852px;
+  height: 52px;
+  text-align: center;
+  opacity: 0.7; 
+}
+
+.target-block {
+  display: flex;
+  margin: 40px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;  
+  padding: 30px;
+  gap: 24px;
+  
+}
+
+.target-block h1 {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  letter-spacing: 0%;
+  margin-top: 40px;
+  margin-bottom: 8px;
+}
+
+.target-block p{
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  width: 940px;
+  height: 52px;
+  opacity: 0.7; 
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.block-img {
+  width: 100px;
+  height: 80px;
+}
+.block-content a {
+  color: #000;
+  font-weight: 600;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0%;
+
+}
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Need support section styles */
+.support-section {
+  width: 70%;
+  height: 370px;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-image: url(./assets/handshake.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+.support-box {
+  margin: 64px 48px;
+}
+.support-box h1 {
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 36px;
+  padding-top: 50px;
+
+}
+
+
+.support-box p {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  opacity: 0.7;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 16px;
+  margin-bottom: 40px;
+}
+.support-box div {
+  text-align: center;
+}
+
+#support-txt {
+  
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+
+  padding: 15px;
+  width: 548px;
+  height: 60px;
+  padding: 19px 20px 19px 20px;
+
+  
+}
+#submit-btn {
+  width: 120px;
+  height: 60px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  background: rgb(255, 255, 255);
+  padding: 15px 18px 15px 18px;
+  margin: 0px 10px;
+  cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Contact me section styles */
+.contacts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 130px;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.03);
+  margin-top: 80px;
+
+}
+.footer-title {
+  margin-left: 120px;
+  color: rgb(13, 19, 33);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0%;
+  text-align: center;
+}
 
 
